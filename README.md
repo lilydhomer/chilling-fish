@@ -2,5 +2,4 @@
 Absolutely just a chilling fish
 
 
-
-◕ ◞ ◕ This project was made using https://netnet.studio
+<img src="images/fish.jpg" align="center" width="250">
