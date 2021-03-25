@@ -1,4 +1,4 @@
-# chilling-fish
+# chilling fish
 Absolutely just a chilling fish
 
 https://lilydhomer.github.io/chillingfish/
